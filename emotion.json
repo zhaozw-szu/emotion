@@ -755,598 +755,6 @@
                 "text": "C酱_问号.png"
             },
             {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/doge.png\">",
-                "text": "doge.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_2020.png\">",
-                "text": "face_2020.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_doge.png\">",
-                "text": "face_doge.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_ok.png\">",
-                "text": "face_ok.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_yes.png\">",
-                "text": "face_yes.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_偷笑.png\">",
-                "text": "face_偷笑.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_傲娇.png\">",
-                "text": "face_傲娇.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_再见.png\">",
-                "text": "face_再见.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_冷.png\">",
-                "text": "face_冷.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_口罩.png\">",
-                "text": "face_口罩.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_可乐.png\">",
-                "text": "face_可乐.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_吃瓜.png\">",
-                "text": "face_吃瓜.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_吐.png\">",
-                "text": "face_吐.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_吓.png\">",
-                "text": "face_吓.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_呆.png\">",
-                "text": "face_呆.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_呲牙.png\">",
-                "text": "face_呲牙.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_哈欠.png\">",
-                "text": "face_哈欠.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_响指.png\">",
-                "text": "face_响指.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_喜极而泣.png\">",
-                "text": "face_喜极而泣.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_喜欢.png\">",
-                "text": "face_喜欢.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_嘘声.png\">",
-                "text": "face_嘘声.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_囧.png\">",
-                "text": "face_囧.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_大哭.png\">",
-                "text": "face_大哭.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_大笑.png\">",
-                "text": "face_大笑.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_大闹.png\">",
-                "text": "face_大闹.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_奋斗.png\">",
-                "text": "face_奋斗.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_奸笑.png\">",
-                "text": "face_奸笑.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_妙啊.png\">",
-                "text": "face_妙啊.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_委屈.png\">",
-                "text": "face_委屈.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_嫌弃.png\">",
-                "text": "face_嫌弃.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_害羞.png\">",
-                "text": "face_害羞.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_寒冷.png\">",
-                "text": "face_寒冷.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_尴尬.png\">",
-                "text": "face_尴尬.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_开心.png\">",
-                "text": "face_开心.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_弹弹堂.png\">",
-                "text": "face_弹弹堂.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_微微笑.png\">",
-                "text": "face_微微笑.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_微笑.png\">",
-                "text": "face_微笑.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_思考.png\">",
-                "text": "face_思考.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_惊呆了.png\">",
-                "text": "face_惊呆了.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_惊喜.png\">",
-                "text": "face_惊喜.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_惊讶.png\">",
-                "text": "face_惊讶.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_打call.png\">",
-                "text": "face_打call.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_抠鼻.png\">",
-                "text": "face_抠鼻.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_抱拳.png\">",
-                "text": "face_抱拳.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_拜托.png\">",
-                "text": "face_拜托.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_拥抱.png\">",
-                "text": "face_拥抱.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_捂脸.png\">",
-                "text": "face_捂脸.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_撇嘴.png\">",
-                "text": "face_撇嘴.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_支持.png\">",
-                "text": "face_支持.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_无奈.png\">",
-                "text": "face_无奈.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_无语.png\">",
-                "text": "face_无语.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_期待.png\">",
-                "text": "face_期待.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_武汉加油.png\">",
-                "text": "face_武汉加油.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_滑稽.png\">",
-                "text": "face_滑稽.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_灵魂出窍.png\">",
-                "text": "face_灵魂出窍.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_点赞.png\">",
-                "text": "face_点赞.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_爱心.png\">",
-                "text": "face_爱心.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_生气.png\">",
-                "text": "face_生气.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_生病.png\">",
-                "text": "face_生病.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_画风突变.png\">",
-                "text": "face_画风突变.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_疑问.png\">",
-                "text": "face_疑问.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_疼.png\">",
-                "text": "face_疼.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_白眼.png\">",
-                "text": "face_白眼.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_福.png\">",
-                "text": "face_福.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_福到了.png\">",
-                "text": "face_福到了.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_笑哭.png\">",
-                "text": "face_笑哭.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_肌肉.png\">",
-                "text": "face_肌肉.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_脸红.png\">",
-                "text": "face_脸红.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_调皮.png\">",
-                "text": "face_调皮.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_跪.png\">",
-                "text": "face_跪.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_酷.png\">",
-                "text": "face_酷.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_酸了.png\">",
-                "text": "face_酸了.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_锦鲤.png\">",
-                "text": "face_锦鲤.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_阴险.png\">",
-                "text": "face_阴险.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_难过.png\">",
-                "text": "face_难过.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_鸡腿.png\">",
-                "text": "face_鸡腿.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/face_黑洞.png\">",
-                "text": "face_黑洞.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/FPX凤仔_nice.png\">",
-                "text": "FPX凤仔_nice.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/FPX凤仔_下线.png\">",
-                "text": "FPX凤仔_下线.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/FPX凤仔_你继续吹.png\">",
-                "text": "FPX凤仔_你继续吹.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/FPX凤仔_冲呀.png\">",
-                "text": "FPX凤仔_冲呀.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/FPX凤仔_冷漠.png\">",
-                "text": "FPX凤仔_冷漠.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/FPX凤仔_吃瓜.png\">",
-                "text": "FPX凤仔_吃瓜.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/FPX凤仔_呆馋.png\">",
-                "text": "FPX凤仔_呆馋.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/FPX凤仔_嗨.png\">",
-                "text": "FPX凤仔_嗨.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/FPX凤仔_嗯嗯.png\">",
-                "text": "FPX凤仔_嗯嗯.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/FPX凤仔_坏笑.png\">",
-                "text": "FPX凤仔_坏笑.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/FPX凤仔_委屈巴巴.png\">",
-                "text": "FPX凤仔_委屈巴巴.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/FPX凤仔_开心.png\">",
-                "text": "FPX凤仔_开心.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/FPX凤仔_开黑.png\">",
-                "text": "FPX凤仔_开黑.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/FPX凤仔_收到.png\">",
-                "text": "FPX凤仔_收到.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/FPX凤仔_无语.png\">",
-                "text": "FPX凤仔_无语.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/FPX凤仔_晚安.png\">",
-                "text": "FPX凤仔_晚安.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/FPX凤仔_满头问号.png\">",
-                "text": "FPX凤仔_满头问号.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/FPX凤仔_理直气壮.png\">",
-                "text": "FPX凤仔_理直气壮.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/FPX凤仔_生气.png\">",
-                "text": "FPX凤仔_生气.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/FPX凤仔_石化.png\">",
-                "text": "FPX凤仔_石化.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/FPX凤仔_笑着流泪.png\">",
-                "text": "FPX凤仔_笑着流泪.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/FPX凤仔_谢谢老板.png\">",
-                "text": "FPX凤仔_谢谢老板.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/FPX凤仔_酸了.png\">",
-                "text": "FPX凤仔_酸了.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/FPX凤仔_飞吻.png\">",
-                "text": "FPX凤仔_飞吻.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/FPX凤仔第二弹_big胆.png\">",
-                "text": "FPX凤仔第二弹_big胆.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/FPX凤仔第二弹_OK.png\">",
-                "text": "FPX凤仔第二弹_OK.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/FPX凤仔第二弹_你礼貌么.png\">",
-                "text": "FPX凤仔第二弹_你礼貌么.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/FPX凤仔第二弹_凤一其随.png\">",
-                "text": "FPX凤仔第二弹_凤一其随.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/FPX凤仔第二弹_制冷.png\">",
-                "text": "FPX凤仔第二弹_制冷.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/FPX凤仔第二弹_可怜.png\">",
-                "text": "FPX凤仔第二弹_可怜.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/FPX凤仔第二弹_吸氧.png\">",
-                "text": "FPX凤仔第二弹_吸氧.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/FPX凤仔第二弹_喝水.png\">",
-                "text": "FPX凤仔第二弹_喝水.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/FPX凤仔第二弹_嗨起来.png\">",
-                "text": "FPX凤仔第二弹_嗨起来.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/FPX凤仔第二弹_害怕.png\">",
-                "text": "FPX凤仔第二弹_害怕.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/FPX凤仔第二弹_干杯.png\">",
-                "text": "FPX凤仔第二弹_干杯.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/FPX凤仔第二弹_怒.png\">",
-                "text": "FPX凤仔第二弹_怒.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/FPX凤仔第二弹_思考.png\">",
-                "text": "FPX凤仔第二弹_思考.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/FPX凤仔第二弹_打扰了.png\">",
-                "text": "FPX凤仔第二弹_打扰了.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/FPX凤仔第二弹_捂脸.png\">",
-                "text": "FPX凤仔第二弹_捂脸.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/FPX凤仔第二弹_敬礼.png\">",
-                "text": "FPX凤仔第二弹_敬礼.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/FPX凤仔第二弹_来了.png\">",
-                "text": "FPX凤仔第二弹_来了.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/FPX凤仔第二弹_格局小了.png\">",
-                "text": "FPX凤仔第二弹_格局小了.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/FPX凤仔第二弹_武运昌隆.png\">",
-                "text": "FPX凤仔第二弹_武运昌隆.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/FPX凤仔第二弹_流汗.png\">",
-                "text": "FPX凤仔第二弹_流汗.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/FPX凤仔第二弹_破防.png\">",
-                "text": "FPX凤仔第二弹_破防.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/FPX凤仔第二弹_起飞.png\">",
-                "text": "FPX凤仔第二弹_起飞.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/FPX凤仔第二弹_震惊.png\">",
-                "text": "FPX凤仔第二弹_震惊.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/FPX凤仔第二弹_鞠躬.png\">",
-                "text": "FPX凤仔第二弹_鞠躬.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/hanser_awsl.png\">",
-                "text": "hanser_awsl.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/hanser_okk.png\">",
-                "text": "hanser_okk.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/hanser_peach.png\">",
-                "text": "hanser_peach.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/hanser_冲鸭.png\">",
-                "text": "hanser_冲鸭.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/hanser_嘤嘤嘤.png\">",
-                "text": "hanser_嘤嘤嘤.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/hanser_嚯牛奶.png\">",
-                "text": "hanser_嚯牛奶.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/hanser_头毛.png\">",
-                "text": "hanser_头毛.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/hanser_好听.png\">",
-                "text": "hanser_好听.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/hanser_小天使.png\">",
-                "text": "hanser_小天使.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/hanser_怂呐.png\">",
-                "text": "hanser_怂呐.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/hanser_打咩.png\">",
-                "text": "hanser_打咩.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/hanser_早.png\">",
-                "text": "hanser_早.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/hanser_晚安.png\">",
-                "text": "hanser_晚安.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/hanser_暗中观察.png\">",
-                "text": "hanser_暗中观察.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/hanser_毛怪哭哭.png\">",
-                "text": "hanser_毛怪哭哭.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/hanser_毛怪惊吓.png\">",
-                "text": "hanser_毛怪惊吓.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/hanser_流啤.png\">",
-                "text": "hanser_流啤.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/hanser_滑稽.png\">",
-                "text": "hanser_滑稽.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/hanser_痛哭.png\">",
-                "text": "hanser_痛哭.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/hanser_篮球.png\">",
-                "text": "hanser_篮球.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/hanser_贴贴.png\">",
-                "text": "hanser_贴贴.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/hanser_问号.png\">",
-                "text": "hanser_问号.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/hanser_难以置信.png\">",
-                "text": "hanser_难以置信.png"
-            },
-            {
                 "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/Hiiro_Hii皮笑脸.png\">",
                 "text": "Hiiro_Hii皮笑脸.png"
             },
@@ -1467,10 +875,6 @@
                 "text": "KizunaAI _摇晃悠悠.png"
             },
             {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/OK.png\">",
-                "text": "OK.png"
-            },
-            {
                 "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/Overidea_awsl.png\">",
                 "text": "Overidea_awsl.png"
             },
@@ -1589,206 +993,6 @@
             {
                 "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/PinoQ_谢谢.png\">",
                 "text": "PinoQ_谢谢.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/tv_doge.png\">",
-                "text": "tv_doge.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/tv_亲亲.png\">",
-                "text": "tv_亲亲.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/tv_偷笑.png\">",
-                "text": "tv_偷笑.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/tv_再见.png\">",
-                "text": "tv_再见.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/tv_冷漠.png\">",
-                "text": "tv_冷漠.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/tv_发怒.png\">",
-                "text": "tv_发怒.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/tv_发财.png\">",
-                "text": "tv_发财.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/tv_可爱.png\">",
-                "text": "tv_可爱.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/tv_吐血.png\">",
-                "text": "tv_吐血.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/tv_呆.png\">",
-                "text": "tv_呆.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/tv_呕吐.png\">",
-                "text": "tv_呕吐.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/tv_困.png\">",
-                "text": "tv_困.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/tv_坏笑.png\">",
-                "text": "tv_坏笑.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/tv_大佬.png\">",
-                "text": "tv_大佬.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/tv_大哭.png\">",
-                "text": "tv_大哭.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/tv_委屈.png\">",
-                "text": "tv_委屈.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/tv_害羞.png\">",
-                "text": "tv_害羞.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/tv_尴尬.png\">",
-                "text": "tv_尴尬.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/tv_微笑.png\">",
-                "text": "tv_微笑.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/tv_思考.png\">",
-                "text": "tv_思考.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/tv_惊吓.png\">",
-                "text": "tv_惊吓.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/tv_打脸.png\">",
-                "text": "tv_打脸.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/tv_抓狂.png\">",
-                "text": "tv_抓狂.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/tv_抠鼻.png\">",
-                "text": "tv_抠鼻.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/tv_斜眼笑.png\">",
-                "text": "tv_斜眼笑.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/tv_无奈.png\">",
-                "text": "tv_无奈.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/tv_晕.png\">",
-                "text": "tv_晕.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/tv_流汗.png\">",
-                "text": "tv_流汗.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/tv_流泪.png\">",
-                "text": "tv_流泪.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/tv_流鼻血.png\">",
-                "text": "tv_流鼻血.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/tv_点赞.png\">",
-                "text": "tv_点赞.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/tv_生气.png\">",
-                "text": "tv_生气.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/tv_生病.png\">",
-                "text": "tv_生病.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/tv_疑问.png\">",
-                "text": "tv_疑问.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/tv_白眼.png\">",
-                "text": "tv_白眼.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/tv_皱眉.png\">",
-                "text": "tv_皱眉.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/tv_目瞪口呆.png\">",
-                "text": "tv_目瞪口呆.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/tv_睡着.png\">",
-                "text": "tv_睡着.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/tv_笑哭.png\">",
-                "text": "tv_笑哭.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/tv_腼腆.png\">",
-                "text": "tv_腼腆.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/tv_色.png\">",
-                "text": "tv_色.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/tv_调侃.png\">",
-                "text": "tv_调侃.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/tv_调皮.png\">",
-                "text": "tv_调皮.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/tv_鄙视.png\">",
-                "text": "tv_鄙视.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/tv_闭嘴.png\">",
-                "text": "tv_闭嘴.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/tv_难过.png\">",
-                "text": "tv_难过.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/tv_馋.png\">",
-                "text": "tv_馋.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/tv_鬼脸.png\">",
-                "text": "tv_鬼脸.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/tv_黑人问号.png\">",
-                "text": "tv_黑人问号.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/tv_鼓掌.png\">",
-                "text": "tv_鼓掌.png"
             },
             {
                 "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/YUKIri_ 鱼鱼萌吃惊.png\">",
@@ -2767,10 +1971,6 @@
                 "text": "伍六七_震惊.png"
             },
             {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/保佑.png\">",
-                "text": "保佑.png"
-            },
-            {
                 "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/偶像梦幻祭2_lo~ve！.png\">",
                 "text": "偶像梦幻祭2_lo~ve！.png"
             },
@@ -2877,14 +2077,6 @@
             {
                 "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/偶像梦幻祭2_鼓气.png\">",
                 "text": "偶像梦幻祭2_鼓气.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/偷笑.png\">",
-                "text": "偷笑.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/傲娇.png\">",
-                "text": "傲娇.png"
             },
             {
                 "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/元龙_偷笑.png\">",
@@ -3331,10 +2523,6 @@
                 "text": "初音未来_鬼脸.png"
             },
             {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/加油.png\">",
-                "text": "加油.png"
-            },
-            {
                 "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/动物园_傲娇.png\">",
                 "text": "动物园_傲娇.png"
             },
@@ -3723,10 +2911,6 @@
                 "text": "双鱼座_贴贴.png"
             },
             {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/口罩.png\">",
-                "text": "口罩.png"
-            },
-            {
                 "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/古守血遊_BAN.png\">",
                 "text": "古守血遊_BAN.png"
             },
@@ -3849,18 +3033,6 @@
             {
                 "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/名侦探柯南_蔑视.png\">",
                 "text": "名侦探柯南_蔑视.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/吐.png\">",
-                "text": "吐.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/吓.png\">",
-                "text": "吓.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/呆.png\">",
-                "text": "呆.png"
             },
             {
                 "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/呜米_KiraKira.png\">",
@@ -4031,18 +3203,6 @@
                 "text": "哈哈.png"
             },
             {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/哈欠.png\">",
-                "text": "哈欠.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/响指.png\">",
-                "text": "响指.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/哦呼.png\">",
-                "text": "哦呼.png"
-            },
-            {
                 "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/哭哭.png\">",
                 "text": "哭哭.png"
             },
@@ -4115,20 +3275,8 @@
                 "text": "喂，看见耳朵啦！_说什么都对.png"
             },
             {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/喜极而泣.png\">",
-                "text": "喜极而泣.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/喜欢.png\">",
-                "text": "喜欢.png"
-            },
-            {
                 "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/喵.png\">",
                 "text": "喵.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/嗑瓜子.png\">",
-                "text": "嗑瓜子.png"
             },
             {
                 "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/嘉然_biu.png\">",
@@ -4215,16 +3363,8 @@
                 "text": "嘘声.png"
             },
             {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/嘟嘟.png\">",
-                "text": "嘟嘟.png"
-            },
-            {
                 "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/嘿嘿.png\">",
                 "text": "嘿嘿.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/囧.png\">",
-                "text": "囧.png"
             },
             {
                 "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/坎公骑冠剑_吃鸡.png\">",
@@ -4277,10 +3417,6 @@
             {
                 "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/墨清弦2nd_蹲墙角.png\">",
                 "text": "墨清弦2nd_蹲墙角.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/墨镜.png\">",
-                "text": "墨镜.png"
             },
             {
                 "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/处女座_nice.png\">",
@@ -4675,10 +3811,6 @@
                 "text": "大理寺日志_黑线.png"
             },
             {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/大笑.png\">",
-                "text": "大笑.png"
-            },
-            {
                 "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/天官赐福_公主抱.png\">",
                 "text": "天官赐福_公主抱.png"
             },
@@ -4919,10 +4051,6 @@
                 "text": "天选之子_辛酸泪.png"
             },
             {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/奋斗.png\">",
-                "text": "奋斗.png"
-            },
-            {
                 "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/女仆_流鼻血.png\">",
                 "text": "女仆_流鼻血.png"
             },
@@ -5003,22 +4131,6 @@
                 "text": "女仆醒_？？？.png"
             },
             {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/奸笑.png\">",
-                "text": "奸笑.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/妙啊.png\">",
-                "text": "妙啊.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/委屈.png\">",
-                "text": "委屈.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/嫌弃.png\">",
-                "text": "嫌弃.png"
-            },
-            {
                 "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/宇宙机器人_AWSL.png\">",
                 "text": "宇宙机器人_AWSL.png"
             },
@@ -5097,10 +4209,6 @@
             {
                 "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/宇宙机器人_起飞.png\">",
                 "text": "宇宙机器人_起飞.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/害羞.png\">",
-                "text": "害羞.png"
             },
             {
                 "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/射手座_乐观.png\">",
@@ -5495,66 +4603,6 @@
                 "text": "小沪蝶_辛苦啦.png"
             },
             {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/小电视_发愁.png\">",
-                "text": "小电视_发愁.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/小电视_吃惊.png\">",
-                "text": "小电视_吃惊.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/小电视_哭泣.png\">",
-                "text": "小电视_哭泣.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/小电视_嘟嘴.png\">",
-                "text": "小电视_嘟嘴.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/小电视_困惑.png\">",
-                "text": "小电视_困惑.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/小电视_太太喜欢.png\">",
-                "text": "小电视_太太喜欢.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/小电视_好怒啊.png\">",
-                "text": "小电视_好怒啊.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/小电视_害羞.png\">",
-                "text": "小电视_害羞.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/小电视_差评.png\">",
-                "text": "小电视_差评.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/小电视_思索.png\">",
-                "text": "小电视_思索.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/小电视_我好兴奋.png\">",
-                "text": "小电视_我好兴奋.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/小电视_无语.png\">",
-                "text": "小电视_无语.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/小电视_汗.png\">",
-                "text": "小电视_汗.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/小电视_笑.png\">",
-                "text": "小电视_笑.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/小电视_赞.png\">",
-                "text": "小电视_赞.png"
-            },
-            {
                 "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/小绿和小蓝_一本正经.png\">",
                 "text": "小绿和小蓝_一本正经.png"
             },
@@ -5773,10 +4821,6 @@
             {
                 "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/少前小剧场_黑化.png\">",
                 "text": "少前小剧场_黑化.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/尴尬.png\">",
-                "text": "尴尬.png"
             },
             {
                 "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/屁屁鼓_YYDS.png\">",
@@ -6391,10 +5435,6 @@
                 "text": "异常生物见闻录_道德标兵.png"
             },
             {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/微笑.png\">",
-                "text": "微笑.png"
-            },
-            {
                 "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/徵羽摩柯_一点点.png\">",
                 "text": "徵羽摩柯_一点点.png"
             },
@@ -6433,10 +5473,6 @@
             {
                 "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/徵羽摩柯_装傻.png\">",
                 "text": "徵羽摩柯_装傻.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/思考.png\">",
-                "text": "思考.png"
             },
             {
                 "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/怪我咯.png\">",
@@ -6581,14 +5617,6 @@
             {
                 "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/总之就是非常可爱_震惊.png\">",
                 "text": "总之就是非常可爱_震惊.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/惊喜.png\">",
-                "text": "惊喜.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/惊讶.png\">",
-                "text": "惊讶.png"
             },
             {
                 "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/我在皇宫当巨巨_吐血.png\">",
@@ -6811,18 +5839,6 @@
                 "text": "打call.png"
             },
             {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/抓狂.png\">",
-                "text": "抓狂.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/抠鼻.png\">",
-                "text": "抠鼻.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/抱拳.png\">",
-                "text": "抱拳.png"
-            },
-            {
                 "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/拥抱.png\">",
                 "text": "拥抱.png"
             },
@@ -6865,14 +5881,6 @@
             {
                 "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/拾忆长安_绞面.png\">",
                 "text": "拾忆长安_绞面.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/捂眼.png\">",
-                "text": "捂眼.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/捂脸.png\">",
-                "text": "捂脸.png"
             },
             {
                 "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/提摩西小队_吹楼上.png\">",
@@ -6991,10 +5999,6 @@
                 "text": "摩羯座_贴贴.png"
             },
             {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/撇嘴.png\">",
-                "text": "撇嘴.png"
-            },
-            {
                 "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/支持.png\">",
                 "text": "支持.png"
             },
@@ -7097,10 +6101,6 @@
             {
                 "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/新科娘_这题不会.png\">",
                 "text": "新科娘_这题不会.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/无语.png\">",
-                "text": "无语.png"
             },
             {
                 "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/早稻叽_AWSL.png\">",
@@ -7951,10 +6951,6 @@
                 "text": "正经人_躺.png"
             },
             {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/歪嘴.png\">",
-                "text": "歪嘴.png"
-            },
-            {
                 "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/气愤.png\">",
                 "text": "气愤.png"
             },
@@ -8475,10 +7471,6 @@
                 "text": "海国之境_补防晒.png"
             },
             {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/滑稽.png\">",
-                "text": "滑稽.png"
-            },
-            {
                 "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/灵笼_boom.png\">",
                 "text": "灵笼_boom.png"
             },
@@ -8605,10 +7597,6 @@
             {
                 "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/炎炎消防队_讨厌.png\">",
                 "text": "炎炎消防队_讨厌.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/点赞.png\">",
-                "text": "点赞.png"
             },
             {
                 "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/热词系列_AWSL.png\">",
@@ -9325,10 +8313,6 @@
             {
                 "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/疑惑.png\">",
                 "text": "疑惑.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/疼.png\">",
-                "text": "疼.png"
             },
             {
                 "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/登乐V计划_22唱歌.png\">",
@@ -10055,10 +9039,6 @@
                 "text": "约战_谢谢.png"
             },
             {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/给心心.png\">",
-                "text": "给心心.png"
-            },
-            {
                 "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/绯赤艾莉欧_prpr.png\">",
                 "text": "绯赤艾莉欧_prpr.png"
             },
@@ -10447,10 +9427,6 @@
                 "text": "羞羞.png"
             },
             {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/翻白眼.png\">",
-                "text": "翻白眼.png"
-            },
-            {
                 "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/老鼠.png\">",
                 "text": "老鼠.png"
             },
@@ -10461,10 +9437,6 @@
             {
                 "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/胜利.png\">",
                 "text": "胜利.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/脱单doge.png\">",
-                "text": "脱单doge.png"
             },
             {
                 "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/芮小凸小凹_666.png\">",
@@ -11291,10 +10263,6 @@
                 "text": "请吃红小豆吧！_问号脸.png"
             },
             {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/调皮.png\">",
-                "text": "调皮.png"
-            },
-            {
                 "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/赞了.png\">",
                 "text": "赞了.png"
             },
@@ -11341,10 +10309,6 @@
             {
                 "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/轻视频_酸了.png\">",
                 "text": "轻视频_酸了.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/辣眼睛.png\">",
-                "text": "辣眼睛.png"
             },
             {
                 "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/进击的冰糖_ok.png\">",
@@ -11499,10 +10463,6 @@
                 "text": "酷仔.png"
             },
             {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/酸了.png\">",
-                "text": "酸了.png"
-            },
-            {
                 "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/金牛座_富有.png\">",
                 "text": "金牛座_富有.png"
             },
@@ -11629,94 +10589,6 @@
             {
                 "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/阎小罗_诶嘿.png\">",
                 "text": "阎小罗_诶嘿.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/阴阳师缘结神_KWSL.png\">",
-                "text": "阴阳师缘结神_KWSL.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/阴阳师缘结神_亲一个.png\">",
-                "text": "阴阳师缘结神_亲一个.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/阴阳师缘结神_你高尚.png\">",
-                "text": "阴阳师缘结神_你高尚.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/阴阳师缘结神_兄弟情？.png\">",
-                "text": "阴阳师缘结神_兄弟情？.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/阴阳师缘结神_别骚了.png\">",
-                "text": "阴阳师缘结神_别骚了.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/阴阳师缘结神_在一起.png\">",
-                "text": "阴阳师缘结神_在一起.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/阴阳师缘结神_多喝热水.png\">",
-                "text": "阴阳师缘结神_多喝热水.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/阴阳师缘结神_姐妹！.png\">",
-                "text": "阴阳师缘结神_姐妹！.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/阴阳师缘结神_开心.png\">",
-                "text": "阴阳师缘结神_开心.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/阴阳师缘结神_快去结婚.png\">",
-                "text": "阴阳师缘结神_快去结婚.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/阴阳师缘结神_我不活啦.png\">",
-                "text": "阴阳师缘结神_我不活啦.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/阴阳师缘结神_我磕到了.png\">",
-                "text": "阴阳师缘结神_我磕到了.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/阴阳师缘结神_我身体好.png\">",
-                "text": "阴阳师缘结神_我身体好.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/阴阳师缘结神_有粮不.png\">",
-                "text": "阴阳师缘结神_有粮不.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/阴阳师缘结神_期待.png\">",
-                "text": "阴阳师缘结神_期待.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/阴阳师缘结神_求你产粮.png\">",
-                "text": "阴阳师缘结神_求你产粮.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/阴阳师缘结神_爱心发射.png\">",
-                "text": "阴阳师缘结神_爱心发射.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/阴阳师缘结神_等粮中.png\">",
-                "text": "阴阳师缘结神_等粮中.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/阴阳师缘结神_缘结神哒.png\">",
-                "text": "阴阳师缘结神_缘结神哒.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/阴阳师缘结神_菜哭.png\">",
-                "text": "阴阳师缘结神_菜哭.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/阴阳师缘结神_该结婚了.png\">",
-                "text": "阴阳师缘结神_该结婚了.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/阴险.png\">",
-                "text": "阴险.png"
             },
             {
                 "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/阿库娅_nice.png\">",
@@ -11897,10 +10769,6 @@
             {
                 "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/阿萨Aza_？？？.png\">",
                 "text": "阿萨Aza_？？？.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/难过.png\">",
-                "text": "难过.png"
             },
             {
                 "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/雪未来_下雪了.png\">",
@@ -12473,10 +11341,6 @@
             {
                 "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/黑潮之上_记小本本.png\">",
                 "text": "黑潮之上_记小本本.png"
-            },
-            {
-                "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/鼓掌.png\">",
-                "text": "鼓掌.png"
             },
             {
                 "icon": "<img src=\"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/bilibili/龙爸_一键三连.png\">",
