@@ -18,14 +18,14 @@ else:
         }
         
         for emotion in emotions:
-            icon_url = f"https://fastly.jsdelivr.net/gh/zhaozw-szu/emotion/{emotion_list}/{emotion}"
-            icon_html = f"<img src=\"{icon_url}\">"
+            icon_path = os.path.join(emotion_list, emotion)
+            icon_html = f"![]({icon_path})"
             emotion_dict[emotion_list]["container"].append({
                 "icon": icon_html,
                 "text": emotion
             })
 
-# 创建 Markdown 文件
+# 创建 README.md 文件
 with open('README.md', 'w', encoding='utf-8') as f:
     for emotion_list, data in emotion_dict.items():
         f.write(f"### {emotion_list}\n\n")
@@ -35,4 +35,4 @@ with open('README.md', 'w', encoding='utf-8') as f:
             f.write(f"- {example['text']}: {example['icon']}\n")
         f.write("\n")
 
-print("Markdown 文件已生成。")
+print("README.md 文件已生成。")
